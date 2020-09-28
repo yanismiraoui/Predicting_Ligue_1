@@ -6,5 +6,6 @@
 Data Science project 
 ----
 
-Python script that tends to predict the results of the french football league : Ligue 1. 
-Accuracy : 
+Python script that tries to predict the results of the French football league : Ligue 1. 
+
+Accuracy : 68 %.
